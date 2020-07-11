@@ -1,6 +1,6 @@
 # Introduction
 
-Hi! I'm a Software Development Manager on the AWS Amplify team focused on our Android library.
+Hi! I'm a Software Development Manager on the [AWS Amplify](https://aws.amazon.com/amplify) team focused on our Android library.
 
 # Contact
 
