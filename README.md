@@ -1,6 +1,6 @@
 # Introduction
 
-Hi! I'm a Software Development Manager on the [AWS Amplify](https://aws.amazon.com/amplify) team.
+Hi! I'm a Software Development Manager on the [AWS AppSync](https://aws.amazon.com/appsync) team.
 
 # Contact
 
